@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImgConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "Abbie.bmp Abbie_modified.bmp"
+    }
+  }
+}
